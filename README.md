@@ -1,7 +1,3 @@
-====================================================================================================
-Readme
-====================================================================================================
-
 About:
 
 Placeholder Dropdown turns placeholder name input boxes into autocomplete/typeahead dropdown select lists making it easy to remember if your placeholder was called three-col-left or three-column-left and avoid typos.
